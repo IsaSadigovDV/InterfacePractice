@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\TaskEmployee\InterfaceMiniAppPractice\bin\Debug\net7.0\InterfaceMiniAppPractice.exe
+C:\Users\HP\source\repos\TaskEmployee\InterfaceMiniAppPractice\bin\Debug\net7.0\InterfaceMiniAppPractice.deps.json
+C:\Users\HP\source\repos\TaskEmployee\InterfaceMiniAppPractice\bin\Debug\net7.0\InterfaceMiniAppPractice.runtimeconfig.json
+C:\Users\HP\source\repos\TaskEmployee\InterfaceMiniAppPractice\bin\Debug\net7.0\InterfaceMiniAppPractice.dll
+C:\Users\HP\source\repos\TaskEmployee\InterfaceMiniAppPractice\bin\Debug\net7.0\InterfaceMiniAppPractice.pdb
+C:\Users\HP\source\repos\TaskEmployee\InterfaceMiniAppPractice\obj\Debug\net7.0\InterfaceMiniAppPractice.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TaskEmployee\InterfaceMiniAppPractice\obj\Debug\net7.0\InterfaceMiniAppPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TaskEmployee\InterfaceMiniAppPractice\obj\Debug\net7.0\InterfaceMiniAppPractice.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TaskEmployee\InterfaceMiniAppPractice\obj\Debug\net7.0\InterfaceMiniAppPractice.AssemblyInfo.cs
+C:\Users\HP\source\repos\TaskEmployee\InterfaceMiniAppPractice\obj\Debug\net7.0\InterfaceMiniAppPractice.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TaskEmployee\InterfaceMiniAppPractice\obj\Debug\net7.0\InterfaceMiniAppPractice.dll
+C:\Users\HP\source\repos\TaskEmployee\InterfaceMiniAppPractice\obj\Debug\net7.0\refint\InterfaceMiniAppPractice.dll
+C:\Users\HP\source\repos\TaskEmployee\InterfaceMiniAppPractice\obj\Debug\net7.0\InterfaceMiniAppPractice.pdb
+C:\Users\HP\source\repos\TaskEmployee\InterfaceMiniAppPractice\obj\Debug\net7.0\InterfaceMiniAppPractice.genruntimeconfig.cache
+C:\Users\HP\source\repos\TaskEmployee\InterfaceMiniAppPractice\obj\Debug\net7.0\ref\InterfaceMiniAppPractice.dll
